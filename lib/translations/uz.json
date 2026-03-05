@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "services": "Xizmatlar",
+    "projects": "Loyihalar",
+    "about": "Biz haqida",
+    "contact": "Aloqa",
+    "language": "Til"
+  },
+  "hero": {
+    "title": "Korporativ IT Yechimlar",
+    "subtitle": "Sizning biznesingizga moslashtirilgan CRM, ERP tizimlar, Telegram botlari va veb/mobil dasturlar",
+    "cta": "Boshlash",
+    "trusted": "Butun dunyo bo'ylab 50+ kompaniyaga ishonch qozongan"
+  },
+  "trust": {
+    "title": "Nega XTeamni tanlash",
+    "subtitle": "Biz isbotlangan tajribaviy innovativ yechimlarni taqdim etamiz",
+    "items": {
+      "experience": {
+        "title": "10+ Yil Tajriba",
+        "desc": "Korporativ dastur ishlab chiqarishda isbotlangan portfolio"
+      },
+      "team": {
+        "title": "Mutaxassis Jamoa",
+        "desc": "Mukammalliklarga bag'ishlangan senior dasturchilar va arxitektorlar"
+      },
+      "support": {
+        "title": "24/7 Qo'llab-quvvatlash",
+        "desc": "Sizning xotirjamlik uchun alohida qo'llab-quvvatlash jamoasi"
+      },
+      "quality": {
+        "title": "Sifat Kafolati",
+        "desc": "Qat'iy sinov va sifat nazorati jarayonlari"
+      }
+    }
+  },
+  "services": {
+    "title": "Bizning Xizmatlar",
+    "subtitle": "Zamonaviy biznes uchun kompleks IT yechimlar",
+    "items": {
+      "crm": {
+        "name": "CRM Tizimlar",
+        "desc": "Siz uchun ishlab chiqilgan mijoz munosabatlari boshqaruv platformalari"
+      },
+      "erp": {
+        "name": "ERP Yechimlar",
+        "desc": "To'liq biznes boshqaruvi uchun tashkilot resurslarini boshqarish tizimlar"
+      },
+      "telegram": {
+        "name": "Telegram Botlari",
+        "desc": "Mijozlar bilan muloqotni yaxshilash uchun avtomatlashtirilgan yechimlar"
+      },
+      "web": {
+        "name": "Veb Ishlab Chiqish",
+        "desc": "Zamonaviy texnologiyalar bilan qurilgan responsive veb-dasturlar"
+      },
+      "mobile": {
+        "name": "Mobil Ilovalar",
+        "desc": "iOS va Android uchun nativ va ko'p platformali yechimlar"
+      },
+      "consulting": {
+        "name": "IT Konsalting",
+        "desc": "Biznesi optimallashtirilish uchun strategik texnologiya maslahlari"
+      }
+    }
+  },
+  "projects": {
+    "title": "Tanlangan Loyihalar",
+    "subtitle": "Muvaffaqiyatli amalga oshirilgan loyihalari",
+    "viewMore": "Yana Ko'rish"
+  },
+  "about": {
+    "title": "XTeam Haqida",
+    "subtitle": "Yetakchi IT yechimlar taqdimotchisi",
+    "description": "2013 yilda asosiylangan XTeam butun dunyo bo'ylab korporativ premyum yechimlar taqdim etmoqda. Bizning innovatsiyalarni va mijozlarning muvaffaqiyatiga sadoqatliligi - bu hammasining asosi.",
+    "stats": {
+      "clients": "50+ Mijozlar",
+      "projects": "200+ Loyihalar",
+      "team": "40+ Dasturchilar",
+      "years": "10+ Yil"
+    }
+  },
+  "faq": {
+    "title": "Tez-Tez Soruladigan Savollar",
+    "items": {
+      "pricing": {
+        "q": "Sizning narx belgilash tizimi qanday?",
+        "a": "Biz moslashtirilgan narx modellarini taqdim etamiz: belgilangan narx, vaqt asosida va boshqariladigan xizmatlar. Shaxsiy taklifni olish uchun biz bilan bog'laning."
+      },
+      "timeline": {
+        "q": "Loyihaning o'rtacha muddati necha?",
+        "a": "Muddati loyihaning murakkabligiga bog'liq. Ko'pchilik loyihalar 2-6 oy vaqt oladi. Boshlang'ich maslahatta batafsil jadval taqdim etamiz."
+      },
+      "tech": {
+        "q": "Siz qanday texnologiyalardan foydalanasiz?",
+        "a": "React, Node.js, Python, PostgreSQL va AWS, Azure kabi bulut platformalardan foydalanadi."
+      },
+      "support": {
+        "q": "Ishga tushgan so'ng qanday qo'llab-quvvatlash taqdim etasiz?",
+        "a": "Biz 24/7 texnik qo'llab-quvvatlash, texnik xizmat, yangilanishlar va doimiy optimallashtirishni taqdim etamiz."
+      }
+    }
+  },
+  "contact": {
+    "title": "Biz Bilan Bog'lanish",
+    "subtitle": "Biznsingizni o'zgartirishga tayyormisiz?",
+    "form": {
+      "name": "Sizning Ismingiz",
+      "email": "Sizning Email",
+      "company": "Kompaniya Nomi",
+      "message": "Sizning Xabaringiz",
+      "submit": "Xabar Yuborish",
+      "success": "Xabar muvaffaqiyatli yuborildi!",
+      "error": "Xabar yuborishda xato. Iltimos qayta urinib ko'ring."
+    }
+  },
+  "footer": {
+    "description": "Zamonaviy biznes uchun IT yechimlar",
+    "links": "Tez Havolalar",
+    "contact": "Aloqa",
+    "social": "Bizni kuzatib turish",
+    "rights": "Barcha huquqlar himoyalangan"
+  }
+}
